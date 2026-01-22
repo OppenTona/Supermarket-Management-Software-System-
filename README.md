@@ -4,7 +4,7 @@ A comprehensive Windows Forms application developed in C# for managing supermark
 
 ## 👥 Team members
 
-- Leader: Nguyễn Thị Thanh Vân (ThanhVan2024)
+- Team Leader: Nguyễn Thị Thanh Vân (ThanhVan2024)
 - Member: Nguyễn Thế Toàn (OppenTona)
 - Member: Lưu Hiểu Khánh (HieuKhanh04)
 - Member: Lê Hà Phương (LeHaPhuong2004)
