@@ -118,9 +118,12 @@ String str = "Server=localhost;Database=QLKhoHang;Trusted_Connection=true";
 
 This project is developed for educational purposes. Please check with the repository owner for specific licensing terms.
 
-## 👥 Authors
+## 👥 Team members
 
-- **OppenTona** - *Initial work* - [OppenTona](https://github.com/OppenTona)
+Leader: Nguyễn Thị Thanh Vân (ThanhVan2024)
+Member: Nguyễn Thế Toàn (OppenTona)
+Member: Lưu Hiểu Khánh (HieuKhanh04)
+Member: Lê Hà Phương (LeHaPhuong2004)
 
 ## 🐛 Bug Reports & Feature Requests
 
