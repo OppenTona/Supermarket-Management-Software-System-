@@ -2,6 +2,13 @@
 
 A comprehensive Windows Forms application developed in C# for managing supermarket operations with full CRUD (Create, Read, Update, Delete) functionality.
 
+## 👥 Team members
+
+- Leader: Nguyễn Thị Thanh Vân (ThanhVan2024)
+- Member: Nguyễn Thế Toàn (OppenTona)
+- Member: Lưu Hiểu Khánh (HieuKhanh04)
+- Member: Lê Hà Phương (LeHaPhuong2004)
+
 ## 🌟 Features
 
 ### Core Functionality
@@ -117,13 +124,6 @@ String str = "Server=localhost;Database=QLKhoHang;Trusted_Connection=true";
 ## 📝 License
 
 This project is developed for educational purposes. Please check with the repository owner for specific licensing terms.
-
-## 👥 Team members
-
-Leader: Nguyễn Thị Thanh Vân (ThanhVan2024)
-Member: Nguyễn Thế Toàn (OppenTona)
-Member: Lưu Hiểu Khánh (HieuKhanh04)
-Member: Lê Hà Phương (LeHaPhuong2004)
 
 ## 🐛 Bug Reports & Feature Requests
 
